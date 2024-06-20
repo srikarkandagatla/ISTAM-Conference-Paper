@@ -1,5 +1,5 @@
 # ISTAM-conference-paper
-Indian Society Of Theoretical and Applied Mechanics (ISTAM'23)
+Indian Society Of Theoretical and Applied Mechanics (ISTAM)
 
 ## This repository includes two key documents related to ISTAM'23:
 Research Paper: This paper was submitted to the Indian Society Of Theoretical and Applied Mechanics (ISTAM) for the proceedings of the year 2023. The conference took place at the National Institute of Technology, Warangal from December 07 to 09, 2023.
